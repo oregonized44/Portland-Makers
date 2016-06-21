@@ -3,11 +3,9 @@ import {TwitterService} from './twitter.service';
 import {HTTP_PROVIDERS} from 'angular2/http';
 
 @Component({
-  selector: 'my-app',
-  template: `
-    <h1>Skeleton Angular2 App!</h1>
-  `,
-  providers: [TwitterService,HTTP_PROVIDERS]
+    selector:'twitter',
+    template: ,
+    providers:[TwitterService, HTTP_PROVIDERS]
 })
 
 export class AppComponent {
