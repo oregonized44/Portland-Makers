@@ -1,0 +1,17 @@
+{
+  "name": "Portland Makers",
+  "description": "",
+  "main": "",
+  "license": "ISC",
+  "homepage": "https://github.com/oregonized44/Portland-Makers",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
